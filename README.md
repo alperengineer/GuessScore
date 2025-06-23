@@ -98,7 +98,7 @@ curl -X POST https://guessscoreapi-production.up.railway.app/predict -H "Content
 
 ##  Ekran Görüntüleri
 
-| Android Uygulama                  | API JSON Cevabı                     |
+| Android Uygulama Anasayfa         | Android Uygulama Tahmin Sonuç       |
 | --------------------------------- | ----------------------------------- |
 | ![main-page](guess-score-android-app/screenshots/main_page.png) | ![guess-result-page](guess-score-android-app/screenshots/guess_result_page.png) |
 
