@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pl_main_color"
+    android:padding="8dp">
+    
+    <ImageView
+        android:id="@+id/team_logo"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:src="@drawable/arsenal"
+        android:layout_marginStart="8dp"/>
+
+    <TextView
+        android:id="@+id/team_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Team Name"
+        android:textColor="@color/white"
+        android:layout_toRightOf="@+id/team_logo"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="8dp"/>
+
+</RelativeLayout>
