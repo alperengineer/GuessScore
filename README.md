@@ -1,5 +1,5 @@
 
-#  Bitirme Projesi: Premier Lig Skor Tahmin Sistemi
+#  GuessScore: Premier Lig Skor Tahmin Sistemi
 
 Bu proje, Premier Lig maç sonuçlarını tahmin etmek için makine öğrenmesi kullanılan bir sistemdir. Proje iki ana bileşenden oluşur:
 
@@ -121,5 +121,5 @@ curl -X POST https://guessscoreapi-production.up.railway.app/predict -H "Content
 
 **Alperen Oğuz Küçükçal**  
 
-📧 [alperenoguzkucukcal@gmail.com](mailto:alperenoguzkucukcal@gmail.com) 
+📧 [alperenoguzkucukcal@gmail.com](mailto:alperenoguzkucukcal@gmail.com)<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/alperen-oguz-kucukcal/)
