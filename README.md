@@ -1,5 +1,5 @@
 
-#  GuessScore: Premier Lig Skor Tahmin Sistemi
+#  Bitirme Projesi: Premier Lig Skor Tahmin Sistemi
 
 Bu proje, Premier Lig maç sonuçlarını tahmin etmek için makine öğrenmesi kullanılan bir sistemdir. Proje iki ana bileşenden oluşur:
 
@@ -98,9 +98,15 @@ curl -X POST https://guessscoreapi-production.up.railway.app/predict -H "Content
 
 ##  Ekran Görüntüleri
 
-| Android Uygulama Anasayfa         | Android Uygulama Tahmin Sonuç       |
+| Android Uygulama                  | API JSON Cevabı                     |
 | --------------------------------- | ----------------------------------- |
 | ![main-page](guess-score-android-app/screenshots/main_page.png) | ![guess-result-page](guess-score-android-app/screenshots/guess_result_page.png) |
+
+---
+
+### Uygulama APK'sı
+
+İndirmek için [buraya](https://drive.google.com/file/d/19W5EGUDtDtNZn3noRCurZzZnYvTWJvID/view?usp=sharing) tıklayın.
 
 ---
 
@@ -121,5 +127,5 @@ curl -X POST https://guessscoreapi-production.up.railway.app/predict -H "Content
 
 **Alperen Oğuz Küçükçal**  
 
-📧 [alperenoguzkucukcal@gmail.com](mailto:alperenoguzkucukcal@gmail.com)<br>
+📧 [alperenoguzkucukcal@gmail.com](mailto:alperenoguzkucukcal@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/alperen-oguz-kucukcal/)
